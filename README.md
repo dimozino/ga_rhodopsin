@@ -1,4 +1,4 @@
-# genetic-algorithm-py
+THIS IS OLD VERSION, DO NOT USE IT, CONTACT DMITRII M. NIKOLAEV FOR CURRENT WORKING VERSION 
 # Sets
 sets - old gene values
 
